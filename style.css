@@ -1,6 +1,6 @@
 .container{
     display: flex;
-    background-color: #272829;
+    background-color: black;
     object-fit: cover;
     align-items: center;
     position: relative;
@@ -15,13 +15,13 @@
     
 }
 .box-title{
-    color: yellow;
+    color: purple;
 }
 .l{
     color: aliceblue;
 }
 .button{
-    background-color: #EE9322;
+    background-color: purple;
 }
 h1{
     position: absolute;
