@@ -1,0 +1,35 @@
+.container{
+    display: flex;
+    background-color: #272829;
+    object-fit: cover;
+    align-items: center;
+    position: relative;
+    top: 380px;
+    justify-content: space-between;
+    position: relative;
+}
+.box{
+    color: aliceblue;
+    width: 200px;
+    text-align: center;
+    
+}
+.box-title{
+    color: yellow;
+}
+.l{
+    color: aliceblue;
+}
+.button{
+    background-color: #EE9322;
+}
+h1{
+    position: absolute;
+    top: 250px;
+    left: 600px;
+    font-size: 75px;
+    color: #272829;
+
+    
+   
+}
